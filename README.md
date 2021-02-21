@@ -1,3 +1,3 @@
-Test File
+# Software Engineering Methods
 
-[![Build Status](https://travis-ci.org/indexquant/sem.svg?branch=master)](https://travis-ci.org/indexquant/sem)
+- Master Build Status [![Build Status](https://travis-ci.org/indexquant/sem.svg?branch=master)](https://travis-ci.org/indexquant/sem)
