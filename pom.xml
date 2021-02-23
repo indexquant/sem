@@ -12,8 +12,8 @@
     <dependencies>
         <dependency>
             <groupId>org.mongodb</groupId>
-            <artifactId>mongodb-driver</artifactId>
-            <version>3.6.4</version>
+            <artifactId>mongodb-driver-sync</artifactId>
+            <version>4.2.0</version>
         </dependency>
     </dependencies>
 
